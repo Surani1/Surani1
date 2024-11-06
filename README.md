@@ -1,32 +1,33 @@
-# Hello!
+# Hello! 👋
 
-I am Surani, and I am just writing and learning code.
+I'm Surani, a developer who is passionate about writing code and constantly learning new technologies.
 
-## My Specialization
+## 💻 My Specialization
 
 ### Programming Languages
-- **Python** — Backend development, data processing with libraries like Pandas and NumPy, AI, and machine learning.
-- **JavaScript** — Building dynamic web applications with modern frameworks (React, Node.js).
-- **C#** — .NET platform development for both desktop and web applications. (so baaad )
+- **Python** — Backend development, data processing with libraries like Pandas and NumPy, as well as AI and machine learning.
+- **JavaScript** — Building dynamic web applications using modern frameworks like React and Node.js.
+- **C#** — .NET development for both desktop and web applications. (WIP)
 
-### Frameworks and Technologies
-- **React.js / Redux** — Building dynamic single-page applications (SPAs) with rich user interfaces.
-- **Django / Flask** — Python-based backend development.
-- **Docker / Kubernetes** — Containerization and orchestration of microservices.
+### Frameworks & Technologies
+- **React.js / Redux** — Developing dynamic, responsive single-page applications (SPAs) with rich user interfaces.
+- **Django / Flask** — Python-based backend development for scalable applications.
+- **Docker / Kubernetes** — Containerization and orchestration for deploying and managing microservices. (WIP)
 
 ### Databases
-- **LiteSQL** — Coming soon
+- **LiteSQL** — Coming soon... (WIP)
 
 ## 💼 Portfolio
 
-- **[Text analyzer](https://github.com/your_project_1)** — My first project, which is a simple web application for text analytics.
+- **[Text Analyzer](https://github.com/your_project_1)** — My first project: a simple web application for text analytics that processes and visualizes text data.
 
-## Contacts
+## 📫 Contacts
 
-- 🔷 Discord - **@suran1**
+- 🔷 Discord: **@suran1**
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surani1&show_icons=true&theme=radical)
 
 ---
+
