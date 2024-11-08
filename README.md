@@ -21,12 +21,6 @@ I'm Surani, a developer who is passionate about writing code and constantly lear
 
 - **[Text Analyzer](https://github.com/your_project_1)** — My first project: a simple web application for text analytics that processes and visualizes text data.
 
-## 📫 Contacts
-
-- 🔷 Discord: **@suran1**
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surani1&show_icons=true&theme=radical)
 
 ---
